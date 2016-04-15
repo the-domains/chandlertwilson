@@ -1,0 +1,28 @@
+name: chandlertwilson
+favicon: null
+layout_spectrum: 0.4232172032352537
+typography_spectrum: 0.543177900603041
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.41950537683442235
+  lightness: 0.6375958749558777
+  saturation: 0.8360760079231113
+  rhythmicContrast: 0.6045733934734017
+purpose: []
